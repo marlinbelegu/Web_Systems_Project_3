@@ -7,7 +7,7 @@ export const ALBUMS = [
     genre: "Jazz",
     price: 38.99,
     stock: 9,
-    image: "https://images.unsplash.com/photo-1539185441755-769473a23570?w=600&auto=format&fit=crop&q=60",
+    image: "https://media1.jpc.de/image/w3000/front/0/0886976389413.jpg",
     description: "Peak modal jazz recorded in two sessions in 1959. Mastered from original analog tapes on heavy virgin vinyl.",
     specs: {
       catalogNumber: "CS-8163",
@@ -76,7 +76,7 @@ export const ALBUMS = [
     genre: "Classical",
     price: 31.25,
     stock: 4,
-    image: "https://images.unsplash.com/photo-1520523839898-507125cd53c1?w=600&auto=format&fit=crop&q=60",
+    image:  "https://cdn-p.smehost.net/sites/374be6422f2b494ab9128079a4bd7dfd/risc-import/88985480742-de_cover.jpg",
     description: "The landmark 1981 digital recording documenting Gould's contemplative return to Bach's variations.",
     specs: {
       catalogNumber: "IM-37779",
